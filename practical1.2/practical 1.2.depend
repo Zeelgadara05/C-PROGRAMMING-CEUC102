@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1774855104 source:c:\users\hp\onedrive\desktop\c++ program\practical 1.2\src\library_system.cpp
+	"library_system.h"
+
+1774855178 c:\users\hp\onedrive\desktop\c++ program\practical 1.2\include\library_system.h
+	<iostream>
+	<string>
+
+1774855157 source:c:\users\hp\onedrive\desktop\c++ program\practical 1.2\main.cpp
+	"library_system.h"
+	<iostream>
+

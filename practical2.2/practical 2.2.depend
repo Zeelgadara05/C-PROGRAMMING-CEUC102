@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1774863279 source:c:\users\hp\onedrive\desktop\c++ program\practical 2.2\main.cpp
+	"student.h"
+	<iostream>
+	<string>
+
+1774863300 c:\users\hp\onedrive\desktop\c++ program\practical 2.2\include\student.h
+	<iostream>
+	<string>
+
+1774863287 source:c:\users\hp\onedrive\desktop\c++ program\practical 2.2\src\student.cpp
+	"student.h"
+	<iostream>
+	<string>
+
