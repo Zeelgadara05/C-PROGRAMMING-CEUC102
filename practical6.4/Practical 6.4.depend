@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776097388 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.4\main.cpp
+	"account.h"
+	<iostream>
+
+1776097788 c:\users\hp\onedrive\desktop\c++ program\practical 6.4\include\account.h
+
+1776097833 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.4\src\account.cpp
+	"account.h"
+	<iostream>
+

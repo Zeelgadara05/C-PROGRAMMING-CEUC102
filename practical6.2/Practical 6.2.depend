@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1776074455 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.2\main.cpp
+	"person.h"
+	<iostream>
+	<string>
+
+1776074501 c:\users\hp\onedrive\desktop\c++ program\practical 6.2\include\person.h
+	<iostream>
+	<string>
+
+1776074732 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.2\src\person.cpp
+	"person.h"
+	<iostream>
+	<string>
+

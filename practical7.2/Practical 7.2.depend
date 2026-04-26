@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1776157492 source:c:\users\hp\onedrive\desktop\c++ program\practical 7.2\src\complex.cpp
+	"complex.h"
+	<iostream>
+
+1776157338 c:\users\hp\onedrive\desktop\c++ program\practical 7.2\include\complex.h
+
+1776157539 source:c:\users\hp\onedrive\desktop\c++ program\practical 7.2\main.cpp
+	"complex.h"
+	<iostream>
+

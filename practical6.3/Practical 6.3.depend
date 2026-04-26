@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1776076769 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.3\main.cpp
+	"fuel.h"
+	<iostream>
+	<string>
+
+1776076817 c:\users\hp\onedrive\desktop\c++ program\practical 6.3\include\fuel.h
+	<iostream>
+	<string>
+
+1776076844 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.3\src\fuel.cpp
+	"fuel.h"
+	<iostream>
+	<string>
+

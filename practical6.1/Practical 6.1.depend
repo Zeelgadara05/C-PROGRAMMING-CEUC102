@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1776072734 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.1\main.cpp
+	"Shape.h"
+	<iostream>
+
+1776072042 c:\users\hp\onedrive\desktop\c++ program\practical 6.1\include\shape.h
+
+1776072715 source:c:\users\hp\onedrive\desktop\c++ program\practical 6.1\src\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1777052458 source:d:\github c++\cpp-programing_25ce064-main\practical 6.1\main.cpp
+	"Shape.h"
+	<iostream>
+
+1777052458 d:\github c++\cpp-programing_25ce064-main\practical 6.1\include\shape.h
+
+1777052458 source:d:\github c++\cpp-programing_25ce064-main\practical 6.1\src\shape.cpp
+	"Shape.h"
+	<iostream>
+

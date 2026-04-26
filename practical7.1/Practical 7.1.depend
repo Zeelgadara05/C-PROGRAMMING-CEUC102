@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1776156198 source:c:\users\hp\onedrive\desktop\c++ program\practical 7.1\main.cpp
+	"overloading.h"
+	<iostream>
+	<string>
+
+1776156198 c:\users\hp\onedrive\desktop\c++ program\practical 7.1\include\overloading.h
+	<iostream>
+	<string>
+
