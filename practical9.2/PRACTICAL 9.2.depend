@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1777197180 source:e:\semester 2\c++\practical_9.2\practical 9.2\main.cpp
+	<iostream>
+	<string>
+	"WordFrequencyCounter.h"
+
+1777197164 e:\semester 2\c++\practical_9.2\practical 9.2\include\wordfrequencycounter.h
+	<string>
+	<map>
+
+1777197171 source:e:\semester 2\c++\practical_9.2\practical 9.2\src\wordfrequencycounter.cpp
+	"WordFrequencyCounter.h"
+	<iostream>
+	<sstream>
+

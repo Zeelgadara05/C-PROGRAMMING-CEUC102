@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1777196476 source:e:\semester 2\c++\practical_9.1\practical 9.1\main.cpp
+	<iostream>
+	"VectorReverser.h"
+
+1777196456 e:\semester 2\c++\practical_9.1\practical 9.1\include\vectorreverser.h
+	<vector>
+
+1777196465 source:e:\semester 2\c++\practical_9.1\practical 9.1\src\vectorreverser.cpp
+	"VectorReverser.h"
+	<iostream>
+	<algorithm>
+
